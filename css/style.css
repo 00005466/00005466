@@ -1,0 +1,18 @@
+.contactbtnshow{
+	margin:20px;
+}
+form{
+	margin: 20px;
+}
+input{
+	display: block;
+	height:35px;
+	border-radius: 10px;
+	margin-bottom: 20px;
+}
+label{
+	margin-top: 10px;
+}
+form span{
+	cursor: pointer;
+}
